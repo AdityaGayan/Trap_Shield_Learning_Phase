@@ -1,0 +1,9 @@
+PING google.com (142.251.221.238) 56(84) bytes of data.
+64 bytes from pnbomb-bk-in-f14.1e100.net (142.251.221.238): icmp_seq=1 ttl=120 time=3.33 ms
+64 bytes from pnbomb-bk-in-f14.1e100.net (142.251.221.238): icmp_seq=2 ttl=120 time=13.1 ms
+64 bytes from pnbomb-bk-in-f14.1e100.net (142.251.221.238): icmp_seq=3 ttl=120 time=22.6 ms
+64 bytes from pnbomb-bk-in-f14.1e100.net (142.251.221.238): icmp_seq=4 ttl=120 time=11.1 ms
+
+--- google.com ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3004ms
+rtt min/avg/max/mdev = 3.326/12.545/22.632/6.873 ms
