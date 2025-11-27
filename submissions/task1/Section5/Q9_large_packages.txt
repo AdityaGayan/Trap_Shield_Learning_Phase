@@ -1,0 +1,5 @@
+132984 KB	ibus-data
+136656 KB	snapd
+140457 KB	libllvm20
+163489 KB	ubuntu-wallpapers-plucky
+565309 KB	linux-firmware
